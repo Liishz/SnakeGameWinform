@@ -1,0 +1,14 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormGUI.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormGUI.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\bin\Debug\WinFormGUI.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\bin\Debug\WinFormGUI.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\bin\Debug\WinFormGUI.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\bin\Debug\SnakeGame.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\bin\Debug\SnakeGame.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\bin\Debug\SnakeGame.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormGUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormGUI.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormGUI.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormsGUI.GameBoard.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\SnakeSandbox\WinFormGUI\obj\Debug\WinFormsGUI.GameForm.resources

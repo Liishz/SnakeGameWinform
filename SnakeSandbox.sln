@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "Engine\SnakeGame.csproj", "{A8317B02-1064-4BE6-9450-D3D4E19E2DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsGUI", "WinFormsGUI\WinFormsGUI.csproj", "{4B50AA28-392A-4943-B907-8CDA32A3D0A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8317B02-1064-4BE6-9450-D3D4E19E2DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8317B02-1064-4BE6-9450-D3D4E19E2DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8317B02-1064-4BE6-9450-D3D4E19E2DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8317B02-1064-4BE6-9450-D3D4E19E2DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B50AA28-392A-4943-B907-8CDA32A3D0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B50AA28-392A-4943-B907-8CDA32A3D0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B50AA28-392A-4943-B907-8CDA32A3D0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B50AA28-392A-4943-B907-8CDA32A3D0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB818A39-62D7-4FD5-9C98-9722D3661532}
+	EndGlobalSection
+EndGlobal
